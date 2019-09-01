@@ -1,4 +1,4 @@
-# pyJSMF
+# pyJSMF-RAW
 
 Python implementation of Joint Stochastic Matrix Factorization (JSMF) for the Rectified Anchor Word (RAW) algorithm.
 
